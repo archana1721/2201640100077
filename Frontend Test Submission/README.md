@@ -1,4 +1,15 @@
 # React URL Shortener App
 
-- Uses custom logging middleware
-- Generates short URLs with default 30-minute expiry
+This is a simple React app that allows users to generate short URLs from long URLs.
+
+## 📦 Features
+
+- 🔗 URL shortening
+- ⏳ 30-minute default expiry for each short URL
+- 🧾 Custom logging middleware with timestamps
+- ✅ Clean, minimal UI
+- 💡 Built for frontend test submission
+
+## 🛠️ Folder Structure
+
+
